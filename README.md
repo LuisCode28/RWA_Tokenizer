@@ -224,3 +224,5 @@ This project is part of the RWA Tokenizer application for Hedera hackathon.
 ## 📞 Support
 
 For questions or issues, please refer to the project documentation or create an issue in the repository. 
+# RWA_Tokenizer
+RWA Tokenizer turns real-world assets into digital tokens on Hedera, enabling secure, transparent, and accessible ownership and trading through DeFi.
